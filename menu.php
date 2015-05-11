@@ -20,7 +20,7 @@
 				<a href="#">Quiero ser Cliente</a>
 			</li>
 			<li>
-				<a href="contacto">Contáctenos</a>
+				<a href="contactenos">Contáctenos</a>
 			</li>
 			<?php echo$acceso; ?>
 		</ul>

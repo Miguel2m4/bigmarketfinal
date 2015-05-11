@@ -270,3 +270,20 @@ header
 	background: #D71E1E;
 	padding: 0.5em;
 }
+
+.fecha-calend{
+	position: relative;
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+}
+.fecha-calend input{
+	width: 121px !important;
+}
+.fecha-calend img{
+	position: absolute;
+	width: 30px;
+	bottom: 10px;
+	left: 105px;
+	cursor: pointer;
+}
