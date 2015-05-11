@@ -17,7 +17,7 @@
 				<a href="nuestra-empresa">Nosotros</a>
 			</li>
 			<li>
-				<a href="#">Quiero ser Cliente</a>
+				<a href="quiero-ser-cliente">Quiero ser Cliente</a>
 			</li>
 			<li>
 				<a href="contactenos">Contáctenos</a>

@@ -74,7 +74,7 @@
 	<div class="catsegunda" id="2">
 		<a href="javascript:void(0)">
 			<img  class="df1" src="images/ejemplo.png" />
-			<img  class="df2" src="images/pollo.png" style="display: none;opacity:0" />
+			<img  class="df2" src="images/carne.png" style="display: none;opacity:0" />
 			<h2>Cárnicos</h2>
 		</a>
 	</div>
@@ -95,14 +95,14 @@
 	<div class="catsegunda" id="6">
 		<a href="javascript:void(0)">
 			<img  class="df1" src="images/ejemplo.png" />
-			<img  class="df2" src="images/pez.png" style="display: none;opacity:0" />
+			<img  class="df2" src="images/salsa.png" style="display: none;opacity:0" />
 			<h2>Salsamentaría</h2>
 		</a>
 	</div>
 	<div class="catsegunda" id="1">
 		<a href="javascript:void(0)">
 			<img  class="df1" src="images/ejemplo.png" />
-			<img  class="df2" src="images/pez.png" style="display: none;opacity:0" />
+			<img  class="df2" src="images/aseo.png" style="display: none;opacity:0" />
 			<h2>Aseo industrial</h2>
 		</a>
 	</div>

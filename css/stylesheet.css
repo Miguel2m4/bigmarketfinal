@@ -429,6 +429,11 @@ footer hr
 
 
 }
+.conte-emp input[type=file]
+{
+	font-size: 12px;
+	display: block;
+}
 .divi1 {
   margin-bottom: 40px;
   text-align: center;
@@ -557,6 +562,26 @@ footer hr
 	text-shadow: rgba(0,0,0,0.9) 1px 2px 2px;
 	padding: 1.6em 1em 1em 1em;
 }
+.titulo3
+{
+	background-image: url(../images/back4.jpg);
+  	background-position: center center;
+  	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	height: 203px;
+ 	width: 100%;
+}
+.titulo3 h2
+{
+	color: #fff;
+	font-family: "OpenSans";
+	font-weight: 300;
+	font-size: 33px;
+	margin: 0px;
+	text-transform: uppercase;
+	text-shadow: rgba(0,0,0,0.9) 1px 2px 2px;
+	padding: 1.6em 1em 1em 1em;
+}
 .terminar-ped
 {
 	background: #FFD324;
@@ -601,7 +626,13 @@ footer hr
 {
 	width: 496px !important;
 }
-
+#con-lad1, #con-lad2
+{
+	display: inline-block;
+	width: 45%;
+	vertical-align: top;
+	padding: 0.8em;
+}
 #conten1 img
 {
 	width: 250px;
@@ -885,7 +916,14 @@ footer hr
 {
 	width: 80%;
 }
-
+.conte-emp #con-lad2
+{
+	width: 95%;
+}
+.conte-emp #con-lad1
+{
+	width: 95%;
+}
 .titulo h2
 {
 	font-size: 25px;
